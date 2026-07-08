@@ -1,8 +1,7 @@
-# Qonur: Conversational AI in a 10-Servo Animatronic Bear
+# Qonur: Conversational AI in an Animatronic Bear
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
 [![Demo](https://img.shields.io/badge/demo-live_performance-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=doGUTJyK8F4)
-[![Project page](https://img.shields.io/badge/project_page-fammad.com-555555)](https://fammad.com/work/qonur/)
 
 <img src="assets/qonur.gif" width="100%" alt="Qonur live demo">
 
